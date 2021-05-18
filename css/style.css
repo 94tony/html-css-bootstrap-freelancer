@@ -1,0 +1,29 @@
+
+
+.container-fluid{
+    border: 1px solid black;
+}
+
+nav{
+    height: 60px;
+    background-color: rgb(2, 2, 61);
+
+}
+
+section{
+height: 350px;
+background-color: chartreuse;
+}
+.first-image{
+    border: 1px solid black;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    
+    
+  
+    
+    
+}
