@@ -1,8 +1,6 @@
 
 
-.container-fluid{
-    border: 1px solid black;
-}
+
 
 nav{
     height: 60px;
@@ -11,19 +9,32 @@ nav{
 }
 
 section{
-height: 350px;
+height: 300px;
 background-color: chartreuse;
+width: 1300px;
 }
 .first-image{
     border: 1px solid black;
     justify-content: center;
     display: flex;
     align-items: center;
-    flex-direction: column;
+    flex-direction: column;   
+}
 
-    
-    
-  
-    
+main{
+    border: 1px black solid;
+    height: 450px;
     
 }
+
+.descrizione{
+    text-align: center;
+}
+
+.box{
+    height: 150px;
+    
+    border: 1px solid black;
+    padding: 5px;
+}
+
